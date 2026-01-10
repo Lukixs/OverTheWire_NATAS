@@ -5,7 +5,7 @@ URL: https://overthewire.org/wargames/natas/
 
 ## NATAS0
 Just need to use the "inspect" tool on the website by right clicking on the website
-Pasted image 20260111005806.png
+obsidian://open?vault=ObsidianVault&file=Bandit%20course%2Fimages%2FPasted%20image%2020260111005806.png
 On the right you will have a side bar pop up and see the password to NATAS1
 
 ## NATAS1
