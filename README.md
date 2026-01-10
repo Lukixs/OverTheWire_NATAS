@@ -15,6 +15,9 @@ Using the F12 opens the Developer tools directly and the right-click is more unr
 
 ## NATAS2
 In this level you should use F12 again and look for file directory in the html code and you will find the image source so that mean there is a file directory in the website "files/pixel.png" shows that there is the files directory and i simply just jus this on the end of the page "/files/" and we can find the index of files.
+
 <img width="603" height="352" alt="Screenshot 2026-01-11 011806" src="https://github.com/user-attachments/assets/c00104e6-6aca-4f4e-89d4-b7dff04f4f04" />
+
 And by clicking on the users.txt we find the password.
+
 <img width="783" height="791" alt="Screenshot 2026-01-11 011851" src="https://github.com/user-attachments/assets/fdccca9c-b81c-49c4-8528-6c46b852c976" />
