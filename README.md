@@ -21,3 +21,13 @@ In this level you should use F12 again and look for file directory in the html c
 And by clicking on the users.txt we find the password.
 
 <img width="783" height="791" alt="Screenshot 2026-01-11 011851" src="https://github.com/user-attachments/assets/fdccca9c-b81c-49c4-8528-6c46b852c976" />
+
+## NATAS3
+By finding out that not even google can find the vulnerability that means simply scanning the inspection tool wont work so by knowing that there are simple applications that crawl through links on websites. they read HTML, metadata, headers. So website block those application by creating "robots.txt"  text file and it controls the crawlers access. By knowing this and by typing at the end of the url "robots.txt" can find the text file where it shows us the "Disallow" section where they put the blocking text for those applications. 
+
+<img width="794" height="165" alt="Screenshot 2026-01-11 020540" src="https://github.com/user-attachments/assets/eb8b3514-7fcb-428e-9154-fcf228505a3c" />
+
+And we find the index "/s3cr3t/" and it will lead us to the users.txt file where we will find the password for the next level.
+
+<img width="793" height="278" alt="Screenshot 2026-01-11 020917" src="https://github.com/user-attachments/assets/bd5e5079-dc75-4c02-8f8d-e4681718d52f" />
+<img width="801" height="171" alt="Screenshot 2026-01-11 020933" src="https://github.com/user-attachments/assets/549d13bf-0f04-4c28-b732-157951410d39" />
